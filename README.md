@@ -1,6 +1,6 @@
 # 简易 jQuery
 
-一些 jQuery 常用的方法
+实现一些 jQuery 常用的方法
 
 # 使用方法
 
